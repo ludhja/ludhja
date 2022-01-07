@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ludhja
+- 👀 I’m interested in machine learning, skiing and photography.
+- 🌱 I’m currently learning ML.
+- 📫 How to reach me ludvig.hjalmarsson[at]gmail.com
